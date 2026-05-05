@@ -2,7 +2,7 @@
 
 /* ── sumar — ya implementada, referencia de estilo ───────────────────────── */
 
-const int sumar(const int a, const int b) {
+const int sumar( int a,  int b) {
     return a + b;
 }
 
